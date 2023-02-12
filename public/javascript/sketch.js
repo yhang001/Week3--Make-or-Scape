@@ -9,10 +9,7 @@ function setup() {
 }
 
 function draw() {
-  background(200,200,250);
-  
-  circle(width/2,height/2,width/6);
-
+  background(255);
 }
 
 function windowResized() {
