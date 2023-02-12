@@ -1,17 +1,4 @@
-# Run Node Examples
+# Éric Rohmer
  
- Before you first run make sure you  have an empty json folder and an empty images folder.
- 
- In terminal shell run: 
- 
- npm install
- 
- 
- Once the packages have installed run:
- 
- node app.js
- 
- 
- Please see getting started with Node FAQ on this week's topic.
-
+One of my favourite film directors.
 
